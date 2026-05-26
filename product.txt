@@ -13,4 +13,23 @@
     name:Laptop,
     price:650000,
 }
-
+{
+    id:4,
+    name:USB-C Charger,
+    price:1000,
+}
+{
+    id:5,
+    name:Air pods,
+    price:20000,
+}
+{
+    id:5,
+    name:Air pods,
+    price:20000,
+}
+{
+    id:5,
+    name:Air pods,
+    price:20000,
+}
