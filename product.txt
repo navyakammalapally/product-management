@@ -1,0 +1,16 @@
+{
+    id:1,
+    name:smart phone,
+    price:350000,
+}
+{
+    id:2,
+    name:TV,
+    price:850000,
+}
+{
+    id:3,
+    name:Laptop,
+    price:650000,
+}
+

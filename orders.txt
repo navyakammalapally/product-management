@@ -1,0 +1,10 @@
+SMARTGADGETS
+Invoice No: SG102
+Date: 26-05-2026
+
+Smart Phone - ₹35000
+USB-C Charger - ₹599
+
+Subtotal: ₹35599
+GST (18%): ₹200
+Total: ₹35799
